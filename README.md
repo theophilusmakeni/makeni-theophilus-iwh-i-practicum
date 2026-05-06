@@ -1,9 +1,9 @@
 # HubSpot Integrating With HubSpot I: Foundations Practicum
 
 ## Custom Object List View
-[Video Games Custom Object List](https://app.hubspot.com/contacts/<test-account-id>/objects/<custom-object-id>/views/all/list)
+[Video Games Custom Object List](https://app-na3.hubspot.com/contacts/343240709/objects/2-243770504/views/all/list)
 
-> Replace `<test-account-id>` and `<custom-object-id>` with your actual HubSpot portal ID and custom object type ID.
+
 
 ## Setup
 
